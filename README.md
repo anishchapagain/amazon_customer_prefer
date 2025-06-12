@@ -29,8 +29,9 @@
         ....
     }
     ```
-![Image](https://www.amazon.com/Wes-McKinney/e/B00E5SITSI)
-![Book-1](https://www.amazon.com/dp/1837636214)
-![Book-2](https://www.amazon.com/dp/1789533392)
+![Author Page](https://www.amazon.com/Anish-Chapagain/e/B07T1SXRDL)
+![Book](https://www.amazon.com/dp/1837636214)
+![Book](https://www.amazon.com/dp/1789533392)
 
+### Tags
 #Python #amazon #web_scraping #AnishChapagain #1837636214 #1789533392 #Packt
