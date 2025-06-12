@@ -6,8 +6,11 @@
 - Script will collect "Customer preffered list" with books asin provided.
 
 ### Usage
-- You can compare almost similar categorical books (in this case).
+- You can compare almost similar categorical books (current case).
 - Perform analysis on price, numberOfReviews, rating, authors profile link, authors count and more.
+- Author Profile links like:
+    - https://www.amazon.com/Anish-Chapagain/e/B07T1SXRDL
+    - https://www.amazon.com/Wes-McKinney/e/B00E5SITSI
 - Example
     ```json
     "1837636214": {
@@ -22,9 +25,12 @@
         "reviewsUrl": "https://www.amazon.com/product-reviews/1837636214",
         "price": "32.34"
     },
-    "":{
+    "1789533392":{
         ....
     }
     ```
+![Image](https://www.amazon.com/Wes-McKinney/e/B00E5SITSI)
+![Book-1](https://www.amazon.com/dp/1837636214)
+![Book-2](https://www.amazon.com/dp/1789533392)
 
-#Python #amazon #web_scraping #AnishChapagain #1837636214 #1789533392
+#Python #amazon #web_scraping #AnishChapagain #1837636214 #1789533392 #Packt
