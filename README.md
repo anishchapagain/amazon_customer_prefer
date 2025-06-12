@@ -1,9 +1,9 @@
 # Amazon.com: Customers who read this book also read
 
-### Customer preffered list
+### Customer preferred list
 - Provide any ASIN like 1837636214 from https://www.amazon.com/ Books section or from links as provided
 - https://www.amazon.com/Hands-Web-Scraping-Python-techniques/dp/1837636214 
-- Script will collect "Customer preffered list" with books asin provided.
+- Script will collect "Customer preferred list" with books asin provided.
 
 ### Usage
 - You can compare almost similar categorical books (current case).
