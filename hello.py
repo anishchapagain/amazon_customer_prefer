@@ -8,6 +8,8 @@ BASE_QUERY = "?max=0&locale=en_US" #24 or 0
 DATASET_IDS = []
 DATASET_URLS = []
 ASIN_REGEX = r"^[A-Z0-9]{10}$"
+DATASET_FILE = "dataset_final"
+FILE_FORMAT= ".json"
 
 def fetch_book_data(book_id):
     url = BASE_URL+book_id+BASE_QUERY
@@ -35,10 +37,9 @@ def collect_book_data(book_id):
     book_widgets = book_data.get("widgetTitle", "")
 
     if book_data:
-        with open("book_data.json", "w") as file:
-            json.dump(book_data, file, indent=4)
+        # with open("book_data.json", "w") as file: 
+        #     json.dump(book_data, file, indent=4)
 
-        # print("Book data collected successfully")
         print(f"-- Found Processing book for {book_id} - {len(book_asins)}  - {book_widgets}")
         print(book_asins)
         
@@ -102,7 +103,7 @@ def main():
         return
     
     elif re.match(ASIN_REGEX, default_id):
-        book_id_default = default_id.strip()  # 1098166302
+        book_id_default = default_id.strip()  # 1837636214
         if not re.match(ASIN_REGEX, book_id_default): 
             print("Invalid ASIN format. Please enter a valid ASIN.")
             return
@@ -132,10 +133,12 @@ def main():
                 print("STOPPIng.....")
                 break
 
-
-    with open("dataset_final.json", "w") as file:
+    output_file_name= DATASET_FILE+"_"+book_id_default+FILE_FORMAT
+    print(f"Writing to {output_file_name}")
+    with open(output_file_name, "w") as file:
         json.dump(datasets, file, indent=4)
-
+    
+    # Not required in all cases so commenting out the lines below
     with open("data_ids.json", "w") as file:
         datasets_ids["asins"] = list(set(DATASET_IDS))
         json.dump(datasets_ids, file, indent=4)
