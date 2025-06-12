@@ -1,0 +1,847 @@
+{
+    "recsSamplesInfo": [
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Sebastian Raschka",
+                    "authorDetailPageUrl": "https://www.amazon.com/Sebastian-Raschka/e/B00J1DHHFS"
+                }
+            ],
+            "numberOfReviewsDisplayString": "205",
+            "priceDisplayString": "$47.40",
+            "hasHalfStar": true,
+            "numberOfReviews": 205,
+            "format": "IMAGE_JPG",
+            "title": "Build a Large Language Model (From Scratch)",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1633437167",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.6,
+            "coverImage": "https://m.media-amazon.com/images/I/41yqngwddyL.jpg",
+            "asin": "1633437167"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Chip Huyen",
+                    "authorDetailPageUrl": "https://www.amazon.com/Chip-Huyen/e/B09XVPTZMB"
+                }
+            ],
+            "numberOfReviewsDisplayString": "191",
+            "priceDisplayString": "$57.74",
+            "hasHalfStar": true,
+            "numberOfReviews": 191,
+            "format": "IMAGE_JPG",
+            "title": "AI Engineering: Building Applications with Foundation Models",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098166302",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/41otuf9vUuL.jpg",
+            "asin": "1098166302"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Micheal Lanham",
+                    "authorDetailPageUrl": "https://www.amazon.com/Micheal-Lanham/e/B07BPS6WQL"
+                }
+            ],
+            "numberOfReviewsDisplayString": "10",
+            "priceDisplayString": "$49.49",
+            "hasHalfStar": true,
+            "numberOfReviews": 10,
+            "format": "IMAGE_JPG",
+            "title": "AI Agents in Action",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1633436349",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/419W7MaaHBL.jpg",
+            "asin": "1633436349"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "James Phoenix",
+                    "authorDetailPageUrl": "https://www.amazon.com/James-Phoenix/e/B0D3CNN7KC"
+                },
+                {
+                    "authorName": "Mike Taylor",
+                    "authorDetailPageUrl": "https://www.amazon.com/Mike-Taylor/e/B0CYLSYPXX"
+                }
+            ],
+            "numberOfReviewsDisplayString": "57",
+            "priceDisplayString": "$50.00",
+            "hasHalfStar": true,
+            "numberOfReviews": 57,
+            "format": "IMAGE_JPG",
+            "title": "Prompt Engineering for Generative AI: Future-Proof Inputs for Reliable AI Outputs",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/109815343X",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/41HJgD3YU2L.jpg",
+            "asin": "109815343X"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Pascal Bornet",
+                    "authorDetailPageUrl": "https://www.amazon.com/Pascal-Bornet/e/B08KGLV4P1"
+                },
+                {
+                    "authorName": "Jochen Wirtz",
+                    "authorDetailPageUrl": "https://www.amazon.com/Jochen-Wirtz/e/B001HD1PGC"
+                },
+                {
+                    "authorName": "Thomas H. Davenport",
+                    "authorDetailPageUrl": "https://www.amazon.com/Thomas-H-Davenport/e/B000APNYLC"
+                },
+                {
+                    "authorName": "David De Cremer",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=David+De+Cremer&search-alias=books"
+                },
+                {
+                    "authorName": "Brian Evergreen",
+                    "authorDetailPageUrl": "https://www.amazon.com/Brian-Evergreen/e/B0BHZYBW52"
+                },
+                {
+                    "authorName": "Phil Fersht",
+                    "authorDetailPageUrl": "https://www.amazon.com/Phil-Fersht/e/B0F1NL6QFH"
+                },
+                {
+                    "authorName": "Rakesh Gohel",
+                    "authorDetailPageUrl": "https://www.amazon.com/Rakesh-Gohel/e/B0F1F36MZW"
+                },
+                {
+                    "authorName": "Shail Khiyara",
+                    "authorDetailPageUrl": "https://www.amazon.com/Shail-Khiyara/e/B0F1F5JSC1"
+                },
+                {
+                    "authorName": "Nandan Mullakara",
+                    "authorDetailPageUrl": "https://www.amazon.com/Nandan-Mullakara/e/B08943Z9D3"
+                },
+                {
+                    "authorName": "Pooja Sund",
+                    "authorDetailPageUrl": "https://www.amazon.com/Pooja-Sund/e/B0F1H1WDSZ"
+                }
+            ],
+            "numberOfReviewsDisplayString": "97",
+            "priceDisplayString": "$24.99",
+            "hasHalfStar": true,
+            "numberOfReviews": 97,
+            "format": "IMAGE_JPG",
+            "title": "Agentic Artificial Intelligence: Harnessing AI Agents to Reinvent Business, Work and Life",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0F1KKYX4T",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/51cykL9s2QL.jpg",
+            "asin": "B0F1KKYX4T"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Keith Bourne",
+                    "authorDetailPageUrl": "https://www.amazon.com/Keith-Bourne/e/B0DHD24HV7"
+                }
+            ],
+            "numberOfReviewsDisplayString": "21",
+            "priceDisplayString": "$33.74",
+            "hasHalfStar": false,
+            "numberOfReviews": 21,
+            "format": "IMAGE_JPG",
+            "title": "Unlocking Data with Generative AI and RAG: Enhance generative AI systems by integrating internal data with large language models using RAG",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0DCZF44C9",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.8,
+            "coverImage": "https://m.media-amazon.com/images/I/41Tc5HvI2TL.jpg",
+            "asin": "B0DCZF44C9"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Andriy Burkov",
+                    "authorDetailPageUrl": "https://www.amazon.com/Andriy-Burkov/e/B07MYKVJ6T"
+                }
+            ],
+            "numberOfReviewsDisplayString": "61",
+            "priceDisplayString": "$46.95",
+            "hasHalfStar": false,
+            "numberOfReviews": 61,
+            "format": "IMAGE_JPG",
+            "title": "The Hundred-Page Language Models Book: hands-on with PyTorch (The Hundred-Page Books)",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1778042724",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.9,
+            "coverImage": "https://m.media-amazon.com/images/I/41kq5LQAjbL.jpg",
+            "asin": "1778042724"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Paul Iusztin",
+                    "authorDetailPageUrl": "https://www.amazon.com/Paul-Iusztin/e/B0DFCCNCXR"
+                },
+                {
+                    "authorName": "Maxime Labonne",
+                    "authorDetailPageUrl": "https://www.amazon.com/Maxime-Labonne/e/B0BVKVJSSQ"
+                }
+            ],
+            "numberOfReviewsDisplayString": "95",
+            "priceDisplayString": "$59.99",
+            "hasHalfStar": true,
+            "numberOfReviews": 95,
+            "format": "IMAGE_JPG",
+            "title": "LLM Engineer's Handbook: Master the art of engineering large language models from concept to production",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1836200072",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/41rTRhNKV0L.jpg",
+            "asin": "1836200072"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Jay Alammar",
+                    "authorDetailPageUrl": "https://www.amazon.com/Jay-Alammar/e/B0DGY5163W"
+                },
+                {
+                    "authorName": "Maarten Grootendorst",
+                    "authorDetailPageUrl": "https://www.amazon.com/Maarten-Grootendorst/e/B0DGGC9W86"
+                }
+            ],
+            "numberOfReviewsDisplayString": "119",
+            "priceDisplayString": "$50.20",
+            "hasHalfStar": true,
+            "numberOfReviews": 119,
+            "format": "IMAGE_JPG",
+            "title": "Hands-On Large Language Models: Language Understanding and Generation",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098150961",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.7,
+            "coverImage": "https://m.media-amazon.com/images/I/412gJohouRL.jpg",
+            "asin": "1098150961"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Christopher Brousseau",
+                    "authorDetailPageUrl": "https://www.amazon.com/Christopher-Brousseau/e/B0DT4LKVD8"
+                },
+                {
+                    "authorName": "Matt Sharp",
+                    "authorDetailPageUrl": "https://www.amazon.com/Matt-Sharp/e/B0DTR4X6X8"
+                }
+            ],
+            "numberOfReviewsDisplayString": "16",
+            "priceDisplayString": "$50.66",
+            "hasHalfStar": true,
+            "numberOfReviews": 16,
+            "format": "IMAGE_JPG",
+            "title": "LLMs in Production: From language models to successful products",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1633437205",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/415UCKWWWfL.jpg",
+            "asin": "1633437205"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Louis-Fran\u00e7ois Bouchard",
+                    "authorDetailPageUrl": "https://www.amazon.com/Louis-Fran%C3%A7ois-Bouchard/e/B0CZ1QYTWD"
+                },
+                {
+                    "authorName": "Louie Peters",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Louie+Peters&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "158",
+            "priceDisplayString": "$55.16",
+            "hasHalfStar": true,
+            "numberOfReviews": 158,
+            "format": "IMAGE_JPG",
+            "title": "Building LLMs for Production: Enhancing LLM Abilities and Reliability with Prompting, Fine-Tuning, and RAG",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0D4FFPFW8",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/417TXW9XfbL.jpg",
+            "asin": "B0D4FFPFW8"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Tom Taulli",
+                    "authorDetailPageUrl": "https://www.amazon.com/Tom-Taulli/e/B001IOBMIQ"
+                }
+            ],
+            "numberOfReviewsDisplayString": "17",
+            "priceDisplayString": "$47.31",
+            "hasHalfStar": false,
+            "numberOfReviews": 17,
+            "format": "IMAGE_JPG",
+            "title": "AI-Assisted Programming: Better Planning, Coding, Testing, and Deployment",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098164563",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.2,
+            "coverImage": "https://m.media-amazon.com/images/I/41epvTXnGpL.jpg",
+            "asin": "1098164563"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Pam Baker",
+                    "authorDetailPageUrl": "https://www.amazon.com/Pam-Baker/e/B001K7Y5JO"
+                }
+            ],
+            "numberOfReviewsDisplayString": "48",
+            "priceDisplayString": "$22.33",
+            "hasHalfStar": true,
+            "numberOfReviews": 48,
+            "format": "IMAGE_JPG",
+            "title": "Generative AI For Dummies (For Dummies (Business & Personal Finance))",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1394270747",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.3,
+            "coverImage": "https://m.media-amazon.com/images/I/41iH8WwuM5L.jpg",
+            "asin": "1394270747"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Omar Sanseviero",
+                    "authorDetailPageUrl": "https://www.amazon.com/Omar-Sanseviero/e/B0DG2MCGQ5"
+                },
+                {
+                    "authorName": "Pedro Cuenca",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Pedro+Cuenca&search-alias=books"
+                },
+                {
+                    "authorName": "Apolin\u00e1rio Passos",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Apolin%C3%A1rio+Passos&search-alias=books"
+                },
+                {
+                    "authorName": "Jonathan Whitaker",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Jonathan+Whitaker&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "11",
+            "priceDisplayString": "$45.20",
+            "hasHalfStar": false,
+            "numberOfReviews": 11,
+            "format": "IMAGE_JPG",
+            "title": "Hands-On Generative AI with Transformers and Diffusion Models",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098149246",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.0,
+            "coverImage": "https://m.media-amazon.com/images/I/41llrar5pSL.jpg",
+            "asin": "1098149246"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Denis Rothman",
+                    "authorDetailPageUrl": "https://www.amazon.com/Denis-Rothman/e/B07DFRCJG8"
+                }
+            ],
+            "numberOfReviewsDisplayString": "34",
+            "priceDisplayString": "$27.99",
+            "hasHalfStar": false,
+            "numberOfReviews": 34,
+            "format": "IMAGE_JPG",
+            "title": "RAG-Driven Generative AI: Build custom retrieval augmented generation pipelines with LlamaIndex, Deep Lake, and Pinecone",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1836200919",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.0,
+            "coverImage": "https://m.media-amazon.com/images/I/412pYHpHFsL.jpg",
+            "asin": "1836200919"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Chris Fregly",
+                    "authorDetailPageUrl": "https://www.amazon.com/Chris-Fregly/e/B08V251HYQ"
+                },
+                {
+                    "authorName": "Antje Barth",
+                    "authorDetailPageUrl": "https://www.amazon.com/Antje-Barth/e/B08X3RXVVB"
+                },
+                {
+                    "authorName": "Shelbee Eigenbrode",
+                    "authorDetailPageUrl": "https://www.amazon.com/Shelbee-Eigenbrode/e/B0CJ9TVDXW"
+                }
+            ],
+            "numberOfReviewsDisplayString": "77",
+            "priceDisplayString": "$52.51",
+            "hasHalfStar": true,
+            "numberOfReviews": 77,
+            "format": "IMAGE_JPG",
+            "title": "Generative AI on AWS: Building Context-Aware Multimodal Reasoning Applications",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098159225",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/41m+EuH1TaL.jpg",
+            "asin": "1098159225"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Trey Grainger",
+                    "authorDetailPageUrl": "https://www.amazon.com/Trey-Grainger/e/B00FV131B8"
+                },
+                {
+                    "authorName": "Doug Turnbull",
+                    "authorDetailPageUrl": "https://www.amazon.com/Doug-Turnbull/e/B01MSQIH8L"
+                },
+                {
+                    "authorName": "Max Irwin",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Max+Irwin&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "9",
+            "priceDisplayString": "$57.12",
+            "hasHalfStar": true,
+            "numberOfReviews": 9,
+            "format": "IMAGE_JPG",
+            "title": "AI-Powered Search",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/161729697X",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.7,
+            "coverImage": "https://m.media-amazon.com/images/I/41wUoWOHgPL.jpg",
+            "asin": "161729697X"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Uday Kamath",
+                    "authorDetailPageUrl": "https://www.amazon.com/Uday-Kamath/e/B07DM32CQ3"
+                },
+                {
+                    "authorName": "Kevin Keenan",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Kevin+Keenan&search-alias=books"
+                },
+                {
+                    "authorName": "Garrett Somers",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Garrett+Somers&search-alias=books"
+                },
+                {
+                    "authorName": "Sarah Sorenson",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Sarah+Sorenson&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "11",
+            "priceDisplayString": "$66.46",
+            "hasHalfStar": false,
+            "numberOfReviews": 11,
+            "format": "IMAGE_JPG",
+            "title": "Large Language Models: A Deep Dive: Bridging Theory and Practice",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/3031656466",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.2,
+            "coverImage": "https://m.media-amazon.com/images/I/41+g21jKmYL.jpg",
+            "asin": "3031656466"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Chip Huyen",
+                    "authorDetailPageUrl": "https://www.amazon.com/Chip-Huyen/e/B09XVPTZMB"
+                }
+            ],
+            "numberOfReviewsDisplayString": "721",
+            "priceDisplayString": "$40.00",
+            "hasHalfStar": true,
+            "numberOfReviews": 721,
+            "format": "IMAGE_JPG",
+            "title": "Designing Machine Learning Systems: An Iterative Process for Production-Ready Applications",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098107969",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.6,
+            "coverImage": "https://m.media-amazon.com/images/I/412UGQGrdKL.jpg",
+            "asin": "1098107969"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "David Foster",
+                    "authorDetailPageUrl": "https://www.amazon.com/David-Foster/e/B07VKC3VGM"
+                }
+            ],
+            "numberOfReviewsDisplayString": "160",
+            "priceDisplayString": "$49.87",
+            "hasHalfStar": true,
+            "numberOfReviews": 160,
+            "format": "IMAGE_JPG",
+            "title": "Generative Deep Learning: Teaching Machines To Paint, Write, Compose, and Play",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098134184",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/41byR25UIbL.jpg",
+            "asin": "1098134184"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Valentina Alto",
+                    "authorDetailPageUrl": "https://www.amazon.com/Valentina-Alto/e/B0C6KYWHFD"
+                }
+            ],
+            "numberOfReviewsDisplayString": "30",
+            "priceDisplayString": "$37.93",
+            "hasHalfStar": true,
+            "numberOfReviews": 30,
+            "format": "IMAGE_JPG",
+            "title": "Building LLM Powered Applications: Create intelligent apps and agents with large language models",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1835462316",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/414IUEEsf8L.jpg",
+            "asin": "1835462316"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Anjanava Biswas",
+                    "authorDetailPageUrl": "https://www.amazon.com/Anjanava-Biswas/e/B0F2JMKJCL"
+                },
+                {
+                    "authorName": "Wrick Talukdar",
+                    "authorDetailPageUrl": "https://www.amazon.com/Wrick-Talukdar/e/B0F2J8S78Z"
+                }
+            ],
+            "numberOfReviewsDisplayString": "20",
+            "priceDisplayString": "$49.99",
+            "hasHalfStar": true,
+            "numberOfReviews": 20,
+            "format": "IMAGE_JPG",
+            "title": "Building Agentic AI Systems: Create intelligent, autonomous AI agents that can reason, plan, and adapt",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1803238755",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/41oX9V4dOQL.jpg",
+            "asin": "1803238755"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Mark Liu",
+                    "authorDetailPageUrl": "https://www.amazon.com/Mark-Liu/e/B094KZ3N7B"
+                }
+            ],
+            "numberOfReviewsDisplayString": "7",
+            "priceDisplayString": "$47.55",
+            "hasHalfStar": false,
+            "numberOfReviews": 7,
+            "format": "IMAGE_JPG",
+            "title": "Learn Generative AI with PyTorch",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1633436462",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 5.0,
+            "coverImage": "https://m.media-amazon.com/images/I/31BJsUNtwmL.jpg",
+            "asin": "1633436462"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Leonid Kuligin",
+                    "authorDetailPageUrl": "https://www.amazon.com/Leonid-Kuligin/e/B0DZNZLH5W"
+                },
+                {
+                    "authorName": "Jorge Zald\u00edvar",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Jorge+Zald%C3%ADvar&search-alias=books"
+                },
+                {
+                    "authorName": "Maximilian Tschochohei",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Maximilian+Tschochohei&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "17",
+            "priceDisplayString": "$33.74",
+            "hasHalfStar": false,
+            "numberOfReviews": 17,
+            "format": "IMAGE_JPG",
+            "title": "Generative AI on Google Cloud with LangChain: Design scalable generative AI solutions with Python, LangChain, and Vertex AI on Google Cloud",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0DKT8DCRT",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.9,
+            "coverImage": "https://m.media-amazon.com/images/I/51zyjPkgo8L.jpg",
+            "asin": "B0DKT8DCRT"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Laurence Moroney",
+                    "authorDetailPageUrl": "https://www.amazon.com/Laurence-Moroney/e/B001ILFKMS"
+                }
+            ],
+            "numberOfReviewsDisplayString": "240",
+            "priceDisplayString": "$38.49",
+            "hasHalfStar": true,
+            "numberOfReviews": 240,
+            "format": "IMAGE_JPG",
+            "title": "AI and Machine Learning for Coders: A Programmer's Guide to Artificial Intelligence",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1492078190",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.6,
+            "coverImage": "https://m.media-amazon.com/images/I/51IiL+E301L.jpg",
+            "asin": "1492078190"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Eric Matthes",
+                    "authorDetailPageUrl": "https://www.amazon.com/Eric-Matthes/e/B01DPU378I"
+                }
+            ],
+            "numberOfReviewsDisplayString": "1,629",
+            "priceDisplayString": "$28.99",
+            "hasHalfStar": false,
+            "numberOfReviews": 1629,
+            "format": "IMAGE_JPG",
+            "title": "Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1718502702",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.8,
+            "coverImage": "https://m.media-amazon.com/images/I/519mXag83nL.jpg",
+            "asin": "1718502702"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Dan Wardrope",
+                    "authorDetailPageUrl": "https://www.amazon.com/Dan-Wardrope/e/B0DHGFMTQ6"
+                }
+            ],
+            "numberOfReviewsDisplayString": "382",
+            "priceDisplayString": "$29.60",
+            "hasHalfStar": true,
+            "numberOfReviews": 382,
+            "format": "IMAGE_JPG",
+            "title": "The Instant AI Agency: How To Cash 6 & 7 Figure Checks In The New Digital Gold Rush Without Being A Tech Nerd",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0DDPMNXND",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.7,
+            "coverImage": "https://m.media-amazon.com/images/I/41A-LSSpdHL.jpg",
+            "asin": "B0DDPMNXND"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Sava\u015f Y\u0131ld\u0131r\u0131m",
+                    "authorDetailPageUrl": "https://www.amazon.com/Sava%C5%9F-Y%C4%B1ld%C4%B1r%C4%B1m/e/B099HB1NJF"
+                },
+                {
+                    "authorName": "Meysam Asgari-Chenaghlu",
+                    "authorDetailPageUrl": "https://www.amazon.com/Meysam-Asgari-Chenaghlu/e/B09B2KQ168"
+                }
+            ],
+            "numberOfReviewsDisplayString": "9",
+            "priceDisplayString": "$35.64",
+            "hasHalfStar": false,
+            "numberOfReviews": 9,
+            "format": "IMAGE_JPG",
+            "title": "Mastering Transformers: The Journey from BERT to Large Language Models and Stable Diffusion",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1837633789",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.8,
+            "coverImage": "https://m.media-amazon.com/images/I/41C34w7vR1L.jpg",
+            "asin": "1837633789"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Mayo Oshin",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Mayo+Oshin&search-alias=books"
+                },
+                {
+                    "authorName": "Nuno Campos",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Nuno+Campos&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "11",
+            "priceDisplayString": "$66.04",
+            "hasHalfStar": true,
+            "numberOfReviews": 11,
+            "format": "IMAGE_JPG",
+            "title": "Learning LangChain: Building AI and LLM Applications with LangChain and LangGraph",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098167287",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.5,
+            "coverImage": "https://m.media-amazon.com/images/I/41-Zf-F-QcL.jpg",
+            "asin": "1098167287"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "John Berryman",
+                    "authorDetailPageUrl": "https://www.amazon.com/John-Berryman/e/B0DJ3HCRV3"
+                },
+                {
+                    "authorName": "Albert Ziegler",
+                    "authorDetailPageUrl": "https://www.amazon.com/Albert-Ziegler/e/B0DKY6KS3F"
+                }
+            ],
+            "numberOfReviewsDisplayString": "18",
+            "priceDisplayString": "$58.00",
+            "hasHalfStar": false,
+            "numberOfReviews": 18,
+            "format": "IMAGE_JPG",
+            "title": "Prompt Engineering for LLMs: The Art and Science of Building Large Language Model-Based Applications",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1098156153",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.2,
+            "coverImage": "https://m.media-amazon.com/images/I/41dMu5fHiTL.jpg",
+            "asin": "1098156153"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Juan Pablo Bustos",
+                    "authorDetailPageUrl": "https://www.amazon.com/Juan-Pablo-Bustos/e/B0DH7X8544"
+                },
+                {
+                    "authorName": "Luis Lopez Soria",
+                    "authorDetailPageUrl": "https://www.amazon.com/Luis-Lopez-Soria/e/B0DJDRQDBV"
+                }
+            ],
+            "numberOfReviewsDisplayString": "10",
+            "priceDisplayString": "$49.99",
+            "hasHalfStar": false,
+            "numberOfReviews": 10,
+            "format": "IMAGE_JPG",
+            "title": "Generative AI Application Integration Patterns: Integrate large language models into your applications",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1835887600",
+            "revisionId": "",
+            "fullStarCount": 5,
+            "averageRating": 4.8,
+            "coverImage": "https://m.media-amazon.com/images/I/41Jw8vsQosL.jpg",
+            "asin": "1835887600"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Brendan Kane",
+                    "authorDetailPageUrl": "https://www.amazon.com/Brendan-Kane/e/B07KWDCQP8"
+                }
+            ],
+            "numberOfReviewsDisplayString": "162",
+            "priceDisplayString": "$7.99",
+            "hasHalfStar": true,
+            "numberOfReviews": 162,
+            "format": "IMAGE_JPG",
+            "title": "The Guide to Going Viral: The Art and Science of Succeeding on Social Media",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0D9JHQH2J",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.4,
+            "coverImage": "https://m.media-amazon.com/images/I/31w+cdb7GZL.jpg",
+            "asin": "B0D9JHQH2J"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Melanie Mitchell",
+                    "authorDetailPageUrl": "https://www.amazon.com/Melanie-Mitchell/e/B001H6OO62"
+                }
+            ],
+            "numberOfReviewsDisplayString": "1,043",
+            "priceDisplayString": "$11.49",
+            "hasHalfStar": true,
+            "numberOfReviews": 1043,
+            "format": "IMAGE_JPG",
+            "title": "Artificial Intelligence",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/1250758041",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.6,
+            "coverImage": "https://m.media-amazon.com/images/I/41b5bJXgkQL.jpg",
+            "asin": "1250758041"
+        },
+        {
+            "authorInfoList": [
+                {
+                    "authorName": "Daniel Nastase",
+                    "authorDetailPageUrl": "https://www.amazon.com/s?ie=UTF8&field-author=Daniel+Nastase&search-alias=books"
+                }
+            ],
+            "numberOfReviewsDisplayString": "25",
+            "priceDisplayString": "$18.00",
+            "hasHalfStar": true,
+            "numberOfReviews": 25,
+            "format": "IMAGE_JPG",
+            "title": "LangGraph - managing AI Agents: A Beginner's Guide",
+            "customerReviewsUrl": "https://www.amazon.com/product-reviews/B0DNJKTYCG",
+            "revisionId": "",
+            "fullStarCount": 4,
+            "averageRating": 4.6,
+            "coverImage": "https://m.media-amazon.com/images/I/31co6ouq-aL.jpg",
+            "asin": "B0DNJKTYCG"
+        }
+    ],
+    "recommendedAsins": [
+        "1633437167",
+        "1098166302",
+        "1633436349",
+        "109815343X",
+        "B0F1KKYX4T",
+        "B0DCZF44C9",
+        "1778042724",
+        "1836200072",
+        "1098150961",
+        "1633437205",
+        "B0D4FFPFW8",
+        "1098164563",
+        "1394270747",
+        "1098149246",
+        "1836200919",
+        "1098159225",
+        "161729697X",
+        "3031656466",
+        "1098107969",
+        "1098134184",
+        "1835462316",
+        "1803238755",
+        "1633436462",
+        "B0DKT8DCRT",
+        "1492078190",
+        "1718502702",
+        "1633437191",
+        "B0DDPMNXND",
+        "1837633789",
+        "1098167287",
+        "1098156153",
+        "1835887600",
+        "B0D9JHQH2J",
+        "1250758041",
+        "B0DNJKTYCG"
+    ],
+    "widgetTitle": "Customers who read this book also read",
+    "widgetId": "web-reader-book-recs_ReadingSimilarities"
+}
