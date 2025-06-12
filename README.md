@@ -29,9 +29,10 @@
         ....
     }
     ```
-![Author Page](https://www.amazon.com/Anish-Chapagain/e/B07T1SXRDL)
-![Book](https://www.amazon.com/dp/1837636214)
-![Book](https://www.amazon.com/dp/1789533392)
+
+<a href="https://www.amazon.com/Anish-Chapagain/e/B07T1SXRDL">Anish-Chapagain</a>
+<a href="https://www.amazon.com/dp/1789533392"><img src="https://m.media-amazon.com/images/I/41HzPGNUrSL.jpg"/></a>
+<a href="https://www.amazon.com/1837636214"><img src="https://m.media-amazon.com/images/I/41HzPGNUrSL.jpg"/></a>
 
 ### Tags
 #Python #amazon #web_scraping #AnishChapagain #1837636214 #1789533392 #Packt
