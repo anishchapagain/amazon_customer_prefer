@@ -34,3 +34,7 @@
 
 ### Tags
 #Python #amazon #web_scraping #AnishChapagain #1837636214 #1789533392 #Packt
+
+# NOTE
+Not to be used for commerical purposes.
+- This tool (Amazon_Prefer) is a part of Agentic Front, in development project.
